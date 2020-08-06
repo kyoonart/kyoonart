@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [1564328778@qq.com]
 - 💬 Ask me about ....
 
-[![](https://github-readme-stats.vercel.app/api?username=pengtaoa&show_icons=true&title_color=fff&theme=tokyonight&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github-readme-stats.vercel.app/api?username=pengtaoa&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pengtaoa&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pengtaoa&layout=compact&theme=tokyonight" />
