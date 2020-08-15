@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 - 🔭 I’m currently studying at [Xi’an University of Posts & Telecommunications](http://www.xiyou.edu.cn/)
 - 🌱 I’m currently learning [Architecture Design](http://pengtaoa.github.io/)
 - 📫 How to reach me: [1564328778@qq.com]
 - 💬 Ask me about ....
+-->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pengtaoa&show_icons=true&theme=tokyonight)](http://pengtaoa.github.io/)
 
