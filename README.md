@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pengtaoa&theme=tokyonight)](http://pengtaoa.github.io/)
 
 -->
-[![pengtao](https://github-readme-streak-stats.herokuapp.com/?user=baiziyu-fe&theme=nightowl)](https://github.com/pengtaoa)
+[![pengtao](https://github-readme-streak-stats.herokuapp.com/?user=pengtaoa&theme=nightowl)](https://github.com/pengtaoa)
 
 [![Pengtao's GitHub stats](https://github-readme-stats.vercel.app/api?username=baiziyu-fe&hide=contribs,prs&count_private=true&theme=radical)](https://github.com/pengtaoa)
 
