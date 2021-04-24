@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ## project
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pengtaoa&repo=myHooks&theme=nightowl)]()
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pengtaoa&repo=MyHooks&theme=nightowl)]()
 
 📫 How to reach me: [pengtaocc@foxmail.com]
 
