@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 -->
 [![pengtao](https://github-readme-streak-stats.herokuapp.com/?user=pengtaoa&theme=nightowl)](https://github.com/pengtaoa)
 
-[![Pengtao's GitHub stats](https://github-readme-stats.vercel.app/api?username=baiziyu-fe&hide=contribs,prs&count_private=true&theme=radical)](https://github.com/pengtaoa)
+[![Pengtao's GitHub stats](https://github-readme-stats.vercel.app/api?username=pengtaoa&hide=contribs,prs&count_private=true&theme=radical)](https://github.com/pengtaoa)
 
 
 ## project
