@@ -1,11 +1,14 @@
 ### Hi there 👋
 
-<!--
+
 **dongyuanxin/dongyuanxin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started: -->
+📫 email: [pengtaocc@foxmail.com]
+🔭 About my Github:[https://profile-summary-for-github.com/user/pengtaoa]
 
-- 🔭 I’m currently working on ...
+
+<!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,8 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
+ -->
 <!--
 - 🔭 I’m currently studying at [Xi’an University of Posts & Telecommunications](http://www.xiyou.edu.cn/)
 - 🌱 I’m currently learning [Architecture Design](http://pengtaoa.github.io/)
@@ -43,7 +45,5 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-
-📫 email: [pengtaocc@foxmail.com]
 
 
