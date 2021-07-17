@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <!-- Here are some ideas to get you started: -->
-📫 email: pengtaocc@foxmail.com
+📫 e-mail: pengtaocc@foxmail.com
 <br/>
-🔭 About my Github:https://profile-summary-for-github.com/user/pengtaoa
+🔭 About my Github: https://profile-summary-for-github.com/user/pengtaoa
 
 
 <!-- - 🔭 I’m currently working on ...
