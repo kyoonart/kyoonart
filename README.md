@@ -37,7 +37,7 @@
 
  [![Readme Card](https://github-readme-streak-stats.herokuapp.com/?user=pengtaoa&theme=nightowl)](https://github.com/pengtaoa) 
  
- 
+ <img align='right' width='174' height='190' src='https://raw.githubusercontent.com/AlvaroIsrael/AlvaroIsrael/main/assets/avatar.png' alt='Alvaro Israel Nunes Leite'>
  
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api?username=pengtaoa&hide=contribs,prs&count_private=true&theme=radical)](https://github.com/pengtaoa) -->
 
