@@ -1,5 +1,4 @@
  ## Hi there 👋
- ![](https://github.com/KieSun/KieSun/blob/master/header_.png?raw=true) 
 
 
 <!-- Here are some ideas to get you started: -->
@@ -35,7 +34,9 @@
 
 
 <img align='right' width='174' height='190' src='https://raw.githubusercontent.com/AlvaroIsrael/AlvaroIsrael/main/assets/avatar.png' alt='Alvaro Israel Nunes Leite'>
- 
+
+![](https://github.com/KieSun/KieSun/blob/master/header_.png?raw=true) 
+
 [![Readme Card](https://github-readme-streak-stats.herokuapp.com/?user=pengtaoa&theme=nightowl)](https://github.com/pengtaoa) 
  
 
