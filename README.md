@@ -48,7 +48,7 @@
  
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api?username=pengtaoa&hide=contribs,prs&count_private=true&theme=radical)](https://github.com/pengtaoa) -->
 
-## ⚡ Recent GitHub Activity
+<!-- ## ⚡ Recent GitHub Activity -->
 
 <img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pengtaoa&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
